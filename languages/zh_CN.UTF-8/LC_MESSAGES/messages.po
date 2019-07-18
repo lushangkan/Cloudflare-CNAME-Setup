@@ -83,7 +83,7 @@ msgstr "记录内容"
 #: actions/add_record.php:76 actions/add_record.php:110
 #: actions/edit_record.php:90 actions/edit_record.php:112
 msgid "Priority"
-msgstr "权重 (Priority)"
+msgstr "优先值 (Priority)"
 
 #: actions/add_record.php:82 actions/edit_record.php:60
 msgid "Tag"
